@@ -1,0 +1,17 @@
+.header-container {
+    padding: 0 50px 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(90deg, #d5b7e0 1.18%, #672280 100%);
+    color: white;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+.header-icon {
+    width: 100px;
+}
