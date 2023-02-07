@@ -1,3 +1,7 @@
+//create "save" feature after create memes:
+// "chỉ cần tạo link target _blank để open image as a new page. 
+// url là url của image thôi"
+
 import './Meme.css'
 import React, { useState, useEffect } from 'react';
 

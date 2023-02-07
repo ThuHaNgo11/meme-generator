@@ -5,6 +5,7 @@
     align-items: center;
     background: linear-gradient(90deg, #d5b7e0 1.18%, #672280 100%);
     color: white;
+    margin: 0 auto;
 }
 
 .header-left {

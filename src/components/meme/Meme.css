@@ -1,5 +1,7 @@
 main {
     padding: 40px;
+    max-width: 60vw;
+    margin: 0 auto;
 }
 
 .form-container {
